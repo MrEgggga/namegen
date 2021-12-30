@@ -8,6 +8,6 @@ the program shows you which names you picked as favorites.
   - `min_len`: the minimum length of the name
   - `max_len`: the maximum length of the name
 
-This program should work with just about any version of Python, including both Python 2 and Python 3.
+This program should work with just about any version of Python, including both Python 2 and Python 3. However, it uses the `curses` library, which Windows doesn't natively support. ~~Consider using a better OS.~~ You can, however, download some packages to make this work, but I don't have enough information on the subject to give any links.
 
 If you want to edit the list of names, simply edit `names-1880.txt`. There should be one name per line. The default list, as the filename suggests, is a list of the most common names for people born in 1880, but unfortunately I can't find the repository I got it from.
