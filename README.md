@@ -10,4 +10,4 @@ the program shows you which names you picked as favorites.
 
 This program should work with just about any version of Python, including both Python 2 and Python 3.
 
-If you want to edit the list of names, simply edit `names-1880.txt`. There should be one name per line.
+If you want to edit the list of names, simply edit `names-1880.txt`. There should be one name per line. The default list, as the filename suggests, is a list of the most common names for people born in 1880, but unfortunately I can't find the repository I got it from.
