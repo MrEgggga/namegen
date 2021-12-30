@@ -9,3 +9,5 @@ the program shows you which names you picked as favorites.
   - `max_len`: the maximum length of the name
 
 This program should work with just about any version of Python, including both Python 2 and Python 3.
+
+If you want to edit the list of names, simply edit `names-1880.txt`. There should be one name per line.
